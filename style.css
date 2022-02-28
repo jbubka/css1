@@ -1,0 +1,13 @@
+.container{
+    background-color: grey;
+}
+h2{
+    color: white;
+
+}
+.container div {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-bottom: 10px;
+}
